@@ -1,0 +1,8 @@
+{
+  "appId": "com.khusnul.tradingjournal",
+  "appName": "Khusnul Trading Journal",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
